@@ -12,10 +12,6 @@ Contents:
    :maxdepth: 2
 
    file1.rst
-<<<<<<< HEAD
-=======
-
->>>>>>> a64ecfba49fc4b8d2d2217dd1716bae249eb345c
 
 Indices and tables
 ==================
