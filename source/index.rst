@@ -9,7 +9,7 @@ Welcome to ProbaSphinx's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    file1.rst
 
