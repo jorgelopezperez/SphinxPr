@@ -9,9 +9,10 @@ Welcome to ProbaSphinx's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    file1.rst
+
 
 Indices and tables
 ==================
